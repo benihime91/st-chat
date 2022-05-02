@@ -1,3 +1,4 @@
+typing_extensions
 streamlit
 streamlit-chat==0.0.2.1
 requests
